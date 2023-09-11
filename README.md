@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @DaveVodrazka
-- 🌱 I started with JavaScript and frontend
-- 💞️ I’m doing a lot of DevOps right now
-- 👀 I’m learning Golang in my free time
+# 👋 Hi, I’m @DaveVodrazka
 
-<!---
-DaveVodrazka/DaveVodrazka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a co-founder of [Carmine Finance](https://carmine.finance/)👨🏻‍💻 We are part of the [Starknet](https://www.starknet.io/en) family!❤️
+
+My stack is
+ - 🖥📱👀️ TypeScript + React
+ - ⚙️🗄️🔙  Rust🦀 + ActixWeb
+ - I deploy my babies on Google ☁️ Platform
